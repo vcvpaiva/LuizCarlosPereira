@@ -36,7 +36,19 @@ Springer (2014)
 	year = {2014}}
 ```
  
+* **Caminhos da razão. Estudos em homenagem a Guido Antônio de Almeida e Raul Ferreira Landim Filho** (edited book)
+with Edgar Marques, Ethel Rocha, Lia Levy, and Marcos A. Gleizer
+Nau Editora. 2010.
 
+``` Bibtex
+@book{Marques2010-MARCDR-3,
+	address = {Rio de Janeiro},
+	editor = {Edgar Marques and Ethel Rocha and Lia Levy and Marcos A. Gleizer and Luiz Carlos Pereira},
+	publisher = {Nau Editora},
+	title = {Caminhos da Raz\~{a}o. Estudos Em Homenagem a Guido Ant\^{o}nio de Almeida e Raul Ferreira Landim Filho},
+	year = {2010}
+}
+```
 
 * **Logic, Language and Knowledge: Essays in Honour of Oswaldo Chateaubriand Filho**
 Luiz Carlos P. D. Pereira, Michael Beaumont Wrigley & Oswaldo Chateaubriand Filho

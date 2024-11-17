@@ -35,6 +35,19 @@ Springer (2014)
 	title = {Advances in Natural Deduction: A Celebration of Dag Prawitz's Work (Trends in Logic Book 39)},
 	year = {2014}}
 ```
+
+* **Metafísica, lógica e outras coisas mais** (edited book)
+with Marco A. Zingano and Lia Levy Nau Editora. 2011.
+
+``` Bibtex
+@book{Pereira2011-PERMLE,
+	address = {Rio de Janeiro},
+	editor = {Luiz Carlos Pereira and Marco A. Zingano and Lia Levy},
+	publisher = {Nau Editora},
+	title = {Metaf\'{i}sica, L\'{o}gica e Outras Coisas Mais},
+	year = {2011}
+}
+```
  
 * **Caminhos da razão. Estudos em homenagem a Guido Antônio de Almeida e Raul Ferreira Landim Filho** (edited book)
 with Edgar Marques, Ethel Rocha, Lia Levy, and Marcos A. Gleizer

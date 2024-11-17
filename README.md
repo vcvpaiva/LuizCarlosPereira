@@ -36,6 +36,21 @@ Springer (2014)
 	year = {2014}}
 ```
  
+
+
+* **Logic, Language and Knowledge: Essays in Honour of Oswaldo Chateaubriand Filho**
+Luiz Carlos P. D. Pereira, Michael Beaumont Wrigley & Oswaldo Chateaubriand Filho
+Unicamp (1999)
+
+``` Bibtex
+@book{Pereira1999-PERLLA-3,
+	author = {Luiz Carlos P. D. Pereira and Michael Beaumont Wrigley and Oswaldo Chateaubriand Filho},
+	editor = {},
+	publisher = {Unicamp},
+	title = {Logic, Language and Knowledge Essays in Honour of Oswaldo Chateaubriand Filho},
+	year = {1999}}
+```
+
 *  **Logic, sets and information: proceedings of the tenth Brazilian Conference on Mathematical Logic** (edited book)
 (with Walter A. Carnielli)
 Centro de Lógica, Epistemologia e História da Ciência, UNICAMP. 1995.

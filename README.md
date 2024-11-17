@@ -1,10 +1,11 @@
 # LuizCarlosPereira
+
 a place to collect pdfs from the work of Luiz Carlos Pereira
 
-List of Publications 
+## List of Publications 
 
-from Philpeople https://philpeople.org/profiles/luiz-carlos-pereira/publications
-from DLBP https://dblp.org/pid/55/4356.html
+* from Philpeople https://philpeople.org/profiles/luiz-carlos-pereira/publications
+* from DLBP https://dblp.org/pid/55/4356.html
 
 PhD Thesis: On the estimation of the length of normal derivations
 Luiz Carlos P. D. Pereira

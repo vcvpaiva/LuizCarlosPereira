@@ -9,17 +9,17 @@ a place to collect pdfs from the work of Luiz Carlos Pereira
 
 ## PhD Thesis: 
 **On the estimation of the length of normal derivations**
-
 Luiz Carlos P. D. Pereira, 1982
 
+``` Bibtex
  @book{Pereira1982-PEROTE,
 	address = {Stockholm},
 	author = {Luiz Carlos P. D. Pereira},
 	editor = {},
 	publisher = {Akademilitteratur},
 	title = {On the Estimation of the Length of Normal Derivations},
-	year = {1982}
-}
+	year = {1982}}
+``` 
 
 
 ## Books:

@@ -1,4 +1,4 @@
-# LuizCarlosPereira
+# Luiz Carlos Pereira
 
 a place to collect pdfs from the work of Luiz Carlos Pereira
 
@@ -7,7 +7,7 @@ a place to collect pdfs from the work of Luiz Carlos Pereira
 * from Philpeople https://philpeople.org/profiles/luiz-carlos-pereira/publications
 * from DLBP https://dblp.org/pid/55/4356.html
 
-* PhD Thesis: 
+## PhD Thesis: 
 On the estimation of the length of normal derivations
 Luiz Carlos P. D. Pereira, 1982
 
@@ -21,10 +21,11 @@ Luiz Carlos P. D. Pereira, 1982
 }
 
 
-* Books:
-Advances in Natural Deduction: A Celebration of Dag Prawitz's Work (Trends in Logic Book 39)
+## Books:
+* Advances in Natural Deduction: A Celebration of Dag Prawitz's Work (Trends in Logic Book 39)
 Luiz Carlos Pereira, Herman Hauesler & Valeria Correa Vaz De Paiva
 Springer (2014)
+
 @book{Pereira2014-PERAIN-2,
 	author = {Luiz Carlos Pereira and Herman Hauesler and Valeria Correa Vaz De Paiva},
 	editor = {},
@@ -33,10 +34,11 @@ Springer (2014)
 	year = {2014}
 }
  
-Logic, sets and information: proceedings of the tenth Brazilian Conference on Mathematical Logic (edited book)
+* Logic, sets and information: proceedings of the tenth Brazilian Conference on Mathematical Logic (edited book)
 (with Walter A. Carnielli)
 Centro de Lógica, Epistemologia e História da Ciência, UNICAMP. 1995.
 Proceedings of the Tenth Brazilian Conference on Mathematical Logic. Coleção CLE, volume 14, 1995. Centro De Lógica, Epistemologia e História da Ciência, Unicamp, Campinas, SP, Brazil.
+
 @book{Carnielli1995-CARLSA-2,
 	address = {Campinas, SP, Brazil},
 	editor = {Walter A. Carnielli and Luiz Carlos P. D. Pereira},

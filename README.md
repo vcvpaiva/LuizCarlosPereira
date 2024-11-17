@@ -8,7 +8,8 @@ a place to collect pdfs from the work of Luiz Carlos Pereira
 * from DLBP https://dblp.org/pid/55/4356.html
 
 ## PhD Thesis: 
-On the estimation of the length of normal derivations
+**On the estimation of the length of normal derivations**
+
 Luiz Carlos P. D. Pereira, 1982
 
  @book{Pereira1982-PEROTE,

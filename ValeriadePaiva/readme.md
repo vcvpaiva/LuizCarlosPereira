@@ -62,7 +62,7 @@ Valeria de Paiva, Daniel Leivant, Larry Moss, Ruy de Queiroz,  Bloomington, Indi
 @book{wollic2015,
 	author = {Valeria de Paiva, Daniel Leivant, Larry Moss, and Ruy de Queiroz},
 	editor = {},
-	publisher = {College Publications},
+	publisher = {Springer-Verlag},
 	title = {22nd Workshop on Logic, Language, Information and Computation (WoLLIC 2015)},
 	year = {2015}}
 ```

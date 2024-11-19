@@ -68,10 +68,33 @@ Valeria de Paiva, Daniel Leivant, Larry Moss, Ruy de Queiroz,  Bloomington, Indi
 Annie Zaenen, Cleo Condoravdi and Valeria de Paiva (CSLI) 
 
 ``` Bibtex
-@book{csli2013,
+@book{csli2014,
 	author = {Annie Zaenen, Cleo Condoravdi and Valeria de Paiva},
 	editor = {},
 	publisher = {CSLI Publications},
 	title = {Perspectives on Semantic Representations for Textual Inference},
+	year = {2014}}
+```
+
+* **From Quirky Case to Representing Space: Papers in Honor of Annie Zaenen**
+Tracy H. King and Valeria de Paiva (CSLI) 
+
+``` Bibtex
+@book{anniefest2013,
+	author = {Annie Zaenen, Cleo Condoravdi and Valeria de Paiva},
+	editor = {},
+	publisher = {CSLI Publications},
+	title = {From Quirky Case to Representing Space: Papers in Honor of Annie Zaenene},
 	year = {2013}}
 ```
+
+* **Inheritance, Defaults, and the Lexicon**
+Tracy H. King and Valeria de Paiva (CSLI) 
+
+``` Bibtex
+@book{copestake1994,
+	author = {Ted Briscoe, Ann Copestake and Valeria de Paiva},
+	editor = {},
+	publisher = {CSLI Publications},
+	title = {Inheritance, Defaults, and the Lexicon},
+	year = {1994} }

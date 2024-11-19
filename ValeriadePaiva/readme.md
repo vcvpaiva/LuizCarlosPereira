@@ -26,6 +26,9 @@ University of Cambridge, DPPMS, 1990. (technical report 1991)
 	year = {1991}}
 ```
 ## Books:
+
+(available from Amazon)
+
 *  **Advances in Natural Deduction: A Celebration of Dag Prawitz's Work** (Trends in Logic Book 39)
 Luiz Carlos Pereira, Herman Hauesler & Valeria Correa Vaz De Paiva,
 Springer (2014)
@@ -98,3 +101,4 @@ Ted Briscoe, Ann Copestake and Valeria de Paiva (hardcover 1994, softcover 2005)
 	publisher = {Cambridge University Press},
 	title = {Inheritance, Defaults, and the Lexicon},
 	year = {1994} }
+```

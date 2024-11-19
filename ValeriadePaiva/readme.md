@@ -22,6 +22,33 @@ Valeria Correa Vaz de Paiva, University of Cambridge, DPPMS, 1990
 	publisher = {computer Laboratory, University of Cambridge, UK},
 	title = {The Dialectica Categories},
 	year = {1991}}
-``` 
+```
+## Books:
+*  **Advances in Natural Deduction: A Celebration of Dag Prawitz's Work** (Trends in Logic Book 39)
+Luiz Carlos Pereira, Herman Hauesler & Valeria Correa Vaz De Paiva
+Springer (2014)
+
+``` Bibtex
+@book{Pereira2014,
+	author = {Luiz Carlos Pereira and Herman Hauesler and Valeria Correa Vaz De Paiva},
+	editor = {},
+	publisher = {Springer},
+	title = {Advances in Natural Deduction: A Celebration of Dag Prawitz's Work (Trends in Logic Book 39)},
+	year = {2014}}
+```
+
+* **Intuitionistic Modal Logic and Application**
+Valeria de Paiva & Sergei Artemov
+College Publications (2021)
+
+``` Bibtex
+@book{ifcolog2021,
+	author = {Valeria de Paiva and Sergei Artemov},
+	editor = {},
+	publisher = {College Publications},
+	title = {Intuitionistic Modal Logic and Applications-- Journal of Applied Logics, IfCoLog Journal},
+	year = {2021}}
+```
+
 
 

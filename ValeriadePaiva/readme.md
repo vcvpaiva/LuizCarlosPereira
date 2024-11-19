@@ -127,3 +127,6 @@ Stergios Chatzikyriakidis and Valeria de Paiva, [ACL anthology](https://aclantho
 * **Joint Workshop on Linearity & Trends in Linear Logic and Applications (TLLA 2018)**  
  Thomas Ehrhard, Maribel Fernández, Valeria de Paiva, Lorenzo Tortora de Falco, [arXiv:1904.06159](https://arxiv.org/abs/1904.06159)
 
+* **Proceedings of the LexSem+Logics Workshop 2016**  
+ Steven Neale, Valeria de Paiva, Arantxa Otegi, Alexandre Rademaker, PROPOR 2016, [arXiv:1608.0476](https://arxiv.org/abs/1608.04767)
+

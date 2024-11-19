@@ -115,7 +115,7 @@ Stergios Chatzikyriakidis and Valeria de Paiva, ACL anthology, 2023
   Paolo Baldan and Valeria de Paiva, Indiana University Bloomington, IN, USA, 2023
 
 * **Second Workshop on Digital Humanities and Natural Language Processing (DHandNLP)**
-   Trojahn, Cassia;  Finatto, Maria Jose;  Vieira, Renata;  Paiva, Valeria, PROPOR 2022, CEUR
+   Trojahn, Cassia;  Finatto, Maria Jose;  Vieira, Renata;  Paiva, Valeria, PROPOR 2022, [CEUR](https://dspace.uevora.pt/rdpc/handle/10174/32157)
 
 * **Second Joint Workshop on Linearity & Trends in Linear Logic and Applications (TLLA 2020)**
   Ugo dal Lago and Valeria de Paiva, online, [arXiv:2112.14305](https://arxiv.org/abs/2112.14305)

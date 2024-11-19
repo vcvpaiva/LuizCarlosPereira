@@ -89,12 +89,12 @@ Tracy H. King and Valeria de Paiva (CSLI)
 ```
 
 * **Inheritance, Defaults, and the Lexicon**
-Tracy H. King and Valeria de Paiva (CSLI) 
+Ted Briscoe, Ann Copestake and Valeria de Paiva (hardcover 1994, softcover 2005)
 
 ``` Bibtex
 @book{copestake1994,
 	author = {Ted Briscoe, Ann Copestake and Valeria de Paiva},
 	editor = {},
-	publisher = {CSLI Publications},
+	publisher = {Cambridge University Press},
 	title = {Inheritance, Defaults, and the Lexicon},
 	year = {1994} }

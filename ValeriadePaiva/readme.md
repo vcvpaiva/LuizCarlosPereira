@@ -102,3 +102,8 @@ Ted Briscoe, Ann Copestake and Valeria de Paiva (hardcover 1994, softcover 2005)
 	title = {Inheritance, Defaults, and the Lexicon},
 	year = {1994} }
 ```
+
+## Special Issues and Electronic Proceedings
+
+* **Bunge Festschrift: A special volume celebrating Marta Bunge's contributions to category theory. Theory and Applications of Categories**
+Maria Manuel Clementino, Valeria de Paiva, Jonathon Funk, TAC volume 40

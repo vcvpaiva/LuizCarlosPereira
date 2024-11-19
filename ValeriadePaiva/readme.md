@@ -106,10 +106,10 @@ Ted Briscoe, Ann Copestake and Valeria de Paiva (hardcover 1994, softcover 2005)
 ## Special Issues
 
 * **Bunge Festschrift: A volume celebrating Marta Bunge's contributions to category theory**
-Maria Manuel Clementino, Valeria de Paiva, Jonathon Funk, Theory and Applications of Categories (TAC), volume 40, 2024
+Maria Manuel Clementino, Valeria de Paiva, Jonathon Funk, Theory and Applications of Categories (TAC), [volume 40](http://www.tac.mta.ca/tac/index.html#vol40), 2024
 
 * **Proceedings of the 4th Natural Logic Meets Machine Learning Workshop (NALOMA23)**
-Stergios Chatzikyriakidis and Valeria de Paiva, ACL anthology, 2023
+Stergios Chatzikyriakidis and Valeria de Paiva, [ACL anthology](https://aclanthology.org/2023.naloma-1.0.pdf), 2023
 
 * **10th Conference on Algebra and Coalgebra in Computer Science (CALCO 2023)**
   Paolo Baldan and Valeria de Paiva, Indiana University Bloomington, IN, USA, 2023, [LIPICs](https://d-nb.info/130093901X/34)

@@ -12,7 +12,9 @@ a place to collect pdfs from my work
 
 ## PhD Thesis: 
 **The Dialectica Categories**
-Valeria Correa Vaz de Paiva, University of Cambridge, DPPMS, 1990
+
+Valeria Correa Vaz de Paiva, 
+University of Cambridge, DPPMS, 1990. (technical report 1991)
 
 ``` Bibtex
  @book{dePaivathesis,

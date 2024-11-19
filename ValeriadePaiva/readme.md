@@ -119,3 +119,9 @@ Stergios Chatzikyriakidis and Valeria de Paiva, [ACL anthology](https://aclantho
 
 * **Second Joint Workshop on Linearity & Trends in Linear Logic and Applications (TLLA 2020)**
   Ugo dal Lago and Valeria de Paiva, online, [arXiv:2112.14305](https://arxiv.org/abs/2112.14305)
+
+
+* **Sixth Workshop on Natural Language and Computer Science (NLCS2019)**
+  Robin Cooper, Valeria De Paiva, Lawrence S Moss, [ACL Anthology](https://aclanthology.org/W19-1100/)
+
+  

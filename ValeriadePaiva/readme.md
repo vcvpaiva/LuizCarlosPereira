@@ -111,8 +111,8 @@ Maria Manuel Clementino, Valeria de Paiva, Jonathon Funk, Theory and Application
 * **Proceedings of the 4th Natural Logic Meets Machine Learning Workshop (NALOMA23)**
 Stergios Chatzikyriakidis and Valeria de Paiva, ACL anthology, 2023
 
-* **10th Conference on Algebra and Coalgebra in Computer Science CALCO 2023**
+* **10th Conference on Algebra and Coalgebra in Computer Science (CALCO 2023)**
   Paolo Baldan and Valeria de Paiva, Indiana University Bloomington, IN, USA, 2023
 
-* **Second Workshop on Digital Humanities and Natural Language Processing**
-   Trojahn, Cassia;  Finatto, Maria Jose;  Vieira, Renata;  Paiva, Valeria
+* **Second Workshop on Digital Humanities and Natural Language Processing (DHandNLP)**
+   Trojahn, Cassia;  Finatto, Maria Jose;  Vieira, Renata;  Paiva, Valeria, PROPOR 2022, CEUR

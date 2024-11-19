@@ -105,7 +105,7 @@ Ted Briscoe, Ann Copestake and Valeria de Paiva (hardcover 1994, softcover 2005)
 
 ## Special Issues
 
-* **Bunge Festschrift: A special volume celebrating Marta Bunge's contributions to category theory. Theory and Applications of Categories**
+* **Bunge Festschrift: A volume celebrating Marta Bunge's contributions to category theory**
 Maria Manuel Clementino, Valeria de Paiva, Jonathon Funk, Theory and Applications of Categories (TAC), volume 40, 2024
 
 * **Proceedings of the 4th Natural Logic Meets Machine

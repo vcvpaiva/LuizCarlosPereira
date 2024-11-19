@@ -116,3 +116,6 @@ Stergios Chatzikyriakidis and Valeria de Paiva, ACL anthology, 2023
 
 * **Second Workshop on Digital Humanities and Natural Language Processing (DHandNLP)**
    Trojahn, Cassia;  Finatto, Maria Jose;  Vieira, Renata;  Paiva, Valeria, PROPOR 2022, CEUR
+
+* **Second Joint Workshop on Linearity & Trends in Linear Logic and Applications (TLLA 2020)**
+  Ugo dal Lago and Valeria de Paiva, online

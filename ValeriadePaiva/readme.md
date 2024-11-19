@@ -52,7 +52,7 @@ College Publications (2021)
 	year = {2021}}
 ```
 
-* **22ND WORKSHOP ON LOGIC, LANGUAGE, INFORMATION AND COMPUTATION (WoLLIC 2015)**
+* **22nd Workshop on Logic, Language, Information and Computation (WoLLIC 2015)**
 Valeria de Paiva, Daniel Leivant, Larry Moss, Ruy de Queiroz,  Bloomington, Indiana, (LNCS, volume 9160) 
 
 ``` Bibtex
@@ -68,7 +68,7 @@ Valeria de Paiva, Daniel Leivant, Larry Moss, Ruy de Queiroz,  Bloomington, Indi
 Annie Zaenen, Cleo Condoravdi and Valeria de Paiva (CSLI) 
 
 ``` Bibtex
-@book{wollic2015,
+@book{csli2013,
 	author = {Annie Zaenen, Cleo Condoravdi and Valeria de Paiva},
 	editor = {},
 	publisher = {CSLI Publications},

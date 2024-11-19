@@ -124,4 +124,6 @@ Stergios Chatzikyriakidis and Valeria de Paiva, [ACL anthology](https://aclantho
 * **Sixth Workshop on Natural Language and Computer Science (NLCS2019)**
   Robin Cooper, Valeria De Paiva, Lawrence S Moss, [ACL Anthology](https://aclanthology.org/W19-1100/)
 
-  
+* **Joint Workshop on Linearity & Trends in Linear Logic and Applications (TLLA 2018)**  
+ Thomas Ehrhard, Maribel Fernández, Valeria de Paiva, Lorenzo Tortora de Falco, [arXiv:1904.06159](https://arxiv.org/abs/1904.06159)
+

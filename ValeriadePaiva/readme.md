@@ -126,11 +126,11 @@ Stergios Chatzikyriakidis and Valeria de Paiva, [ACL anthology](https://aclantho
 * **Joint Workshop on Linearity & Trends in Linear Logic and Applications (TLLA 2018)**  
  Thomas Ehrhard, Maribel Fernández, Valeria de Paiva, Lorenzo Tortora de Falco, [arXiv:1904.06159](https://arxiv.org/abs/1904.06159)
 
+* **Proceedings of Intuitionistic Modal Logic and Applications (IMLA 2015)**
+ Natasha Alechina and Valeria de Paiva [Journal of Logic and Computation](https://academic.oup.com/logcom/issue/28/5), 2018
+
 * **Proceedings of the LexSem+Logics Workshop 2016**  
  Steven Neale, Valeria de Paiva, Arantxa Otegi, Alexandre Rademaker, PROPOR 2016, [arXiv:1608.0476](https://arxiv.org/abs/1608.04767)
-
-* **Proceedings of Intuitionistic Modal Logic and Applications (IMLA 2015)**
- Natasha Alechina and Valeria de Paiva [Journal of Logic and Computation](https://academic.oup.com/logcom/issue/28/5)
 
 * **Third Workshop on Natural Language and Computer Science (NLCS 2015)**
   Makoto Kanazawa, Lawrence Moss, Valeria de Paiva, [EasyChair Proceedings in Computing, EPiC vol 32](https://easychair.org/publications/volume/NLCS15)

@@ -126,18 +126,28 @@ Stergios Chatzikyriakidis and Valeria de Paiva, [ACL anthology](https://aclantho
 * **Joint Workshop on Linearity & Trends in Linear Logic and Applications (TLLA 2018)**  
  Thomas Ehrhard, Maribel Fernández, Valeria de Paiva, Lorenzo Tortora de Falco, [arXiv:1904.06159](https://arxiv.org/abs/1904.06159)
 
-* **Fifth Workshop on Natural Language and Computer Science (NLCS 2018)**
-  Ash Asudeh, Valeria De Paiva, Lawrence S Moss, [NLCS 2018](https://iulg.sitehost.iu.edu/nlcs2018.html)
-
 * **Proceedings of the LexSem+Logics Workshop 2016**  
  Steven Neale, Valeria de Paiva, Arantxa Otegi, Alexandre Rademaker, PROPOR 2016, [arXiv:1608.0476](https://arxiv.org/abs/1608.04767)
-
-* **Fourth Workshop on Natural Language and Computer Science (NLCS 2016)**
-  Chris Barker, Valeria De Paiva, Lawrence S Moss, [NLCS 2016](https://iulg.sitehost.iu.edu/nlcs16.html)
-
 
 * **Proceedings of Intuitionistic Modal Logic and Applications (IMLA 2015)**
  Natasha Alechina and Valeria de Paiva [Journal of Logic and Computation](https://academic.oup.com/logcom/issue/28/5)
 
 * **Third Workshop on Natural Language and Computer Science (NLCS 2015)**
   Makoto Kanazawa, Lawrence Moss, Valeria de Paiva, [EasyChair Proceedings in Computing, EPiC vol 32](https://easychair.org/publications/volume/NLCS15)
+
+##  Meetings Organization
+
+* **Fifth Workshop on Natural Language and Computer Science (NLCS 2018)**
+  Ash Asudeh, Valeria De Paiva, Lawrence S Moss, [NLCS 2018](https://iulg.sitehost.iu.edu/nlcs2018.html)
+
+* **Fourth Workshop on Natural Language and Computer Science (NLCS 2016)**
+  Chris Barker, Valeria De Paiva, Lawrence S Moss, [NLCS 2016](https://iulg.sitehost.iu.edu/nlcs16.html)
+
+* **Third Workshop on Natural Language and Computer Science (NLCS 2015)**
+   Valeria De Paiva, Lawrence S Moss, [NLCS 2015](https://easychair.org/smart-program/NLCS'15/index.html)
+  
+* **Second Workshop on Natural Language and Computer Science (NLCS 2014)**
+  Christian Retoré, Valeria De Paiva, Lawrence S Moss, [NLCS 2014](https://easychair.org/smart-program/VSL2014/NLCS-program.html)
+
+* **Workshop on Natural Language and Computer Science (NLCS 2014)**
+ Valeria De Paiva, Lawrence S Moss, [NLCS 2013](https://iulg.sitehost.iu.edu/nlcs2013.html)

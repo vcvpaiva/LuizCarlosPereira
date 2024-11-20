@@ -132,6 +132,10 @@ Stergios Chatzikyriakidis and Valeria de Paiva, [ACL anthology](https://aclantho
 * **Proceedings of the LexSem+Logics Workshop 2016**  
  Steven Neale, Valeria de Paiva, Arantxa Otegi, Alexandre Rademaker, PROPOR 2016, [arXiv:1608.0476](https://arxiv.org/abs/1608.04767)
 
+* **Fourth Workshop on Natural Language and Computer Science (NLCS 2016)**
+  Chris Barker, Valeria De Paiva, Lawrence S Moss, [NLCS 2016](https://iulg.sitehost.iu.edu/nlcs16.html)
+
+
 * **Proceedings of Intuitionistic Modal Logic and Applications (IMLA 2015)**
  Natasha Alechina and Valeria de Paiva [Journal of Logic and Computation](https://academic.oup.com/logcom/issue/28/5)
 

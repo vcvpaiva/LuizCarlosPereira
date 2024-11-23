@@ -20,7 +20,7 @@ University of Cambridge, DPPMS, 1990. (technical report 1991)
  @book{dePaivathesis,
 	address = {Cambridge},
 	author = {Valeria C V de Paiva},
-	editor = {},
+	url = {https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf},
 	publisher = {Computer Laboratory, University of Cambridge, UK},
 	title = {The Dialectica Categories},
 	year = {1991}}

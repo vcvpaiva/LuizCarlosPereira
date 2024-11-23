@@ -11,10 +11,10 @@ a place to collect pdfs from my work
 * from DLBP https://dblp.org/pid/p/ValeriadePaiva.html
 
 ## PhD Thesis: 
-**[The Dialectica Categorie](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf)s**
+**[The Dialectica Categories](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf)**
 
 Valeria Correa Vaz de Paiva, 
-University of Cambridge, DPPMS, 1990. (technical report 1991)
+University of Cambridge, DPPMS, 1990. (Technical Report 1991)
 
 ``` Bibtex
  @book{dePaivathesis,

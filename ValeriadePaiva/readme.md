@@ -141,6 +141,8 @@ Stergios Chatzikyriakidis and Valeria de Paiva, [ACL anthology](https://aclantho
 * **13th Workshop on Logic, Language, Information and Computation (WOLLiC 2006)**
   Grigori Mints, Valeria de Paiva, and Ruy de Queiroz [Special Issue of Information and Computation](https://www.sciencedirect.com/science/article/pii/S0890540109000959?via%3Dihub), 2009
 
+* **TAC special volume: Chu spaces: theory and applications**  Valeria de Paiva and Vaughan Pratt, Theory and Applications of Categories (TAC), volume 17, 20206
+
 * **Intuitionistic Modal Logic and Application (IMLA 2004)**
   Valeria de Paiva, Rejeev Gor\'e and Michael Mendler [Special Issue of Journal of Logic and Computation](https://academic.oup.com/logcom/issue/14/4)
   

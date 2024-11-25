@@ -106,7 +106,7 @@ Ted Briscoe, Ann Copestake and Valeria de Paiva (hardcover 1994, softcover 2005)
 ## Special Issues
 
 * **Bunge Festschrift: A volume celebrating Marta Bunge's contributions to category theory**
-Maria Manuel Clementino, Valeria de Paiva, Jonathon Funk, Theory and Applications of Categories (TAC), [volume 40](http://www.tac.mta.ca/tac/index.html#vol40), 2024
+Maria Manuel Clementino, Valeria de Paiva, Jonathon Funk, Theory and Applications of Categories (TAC), [volume 40](http://www.tac.mta.ca/tac/index.html#vol40), 2024 (18 papers)
 
 * **Proceedings of the 4th Natural Logic Meets Machine Learning Workshop (NALOMA23)**
 Stergios Chatzikyriakidis and Valeria de Paiva, [ACL anthology](https://aclanthology.org/2023.naloma-1.0.pdf), 2023
@@ -141,7 +141,7 @@ Stergios Chatzikyriakidis and Valeria de Paiva, [ACL anthology](https://aclantho
 * **13th Workshop on Logic, Language, Information and Computation (WOLLiC 2006)**
   Grigori Mints, Valeria de Paiva, and Ruy de Queiroz [Special Issue of Information and Computation](https://www.sciencedirect.com/science/article/pii/S0890540109000959?via%3Dihub), 2009
 
-* **TAC special volume: Chu spaces: theory and applications**  Valeria de Paiva and Vaughan Pratt, Theory and Applications of Categories (TAC), volume 17, 20206
+* **TAC special volume: Chu spaces: theory and applications**  Valeria de Paiva and Vaughan Pratt, Theory and Applications of Categories (TAC), volume 17, 20206 (7 papers)
 
 * **Intuitionistic Modal Logic and Application (IMLA 2004)**
   Valeria de Paiva, Rejeev Gor\'e and Michael Mendler [Special Issue of Journal of Logic and Computation](https://academic.oup.com/logcom/issue/14/4)

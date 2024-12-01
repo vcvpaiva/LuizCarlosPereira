@@ -1,6 +1,6 @@
 ##  Meetings Organization
 
-# NLCS
+## NLCS
 
 * **Sixth Workshop on Natural Language and Computer Science (NLCS 2019)**
   Robin Cooper, Valeria De Paiva, Lawrence S Moss, [NLCS 2019]()
@@ -19,3 +19,10 @@
 
 * **Workshop on Natural Language and Computer Science (NLCS 2013)**
  Valeria De Paiva, Lawrence S Moss, [NLCS 2013](https://iulg.sitehost.iu.edu/nlcs2013.html)
+
+## Linearity/TLLA
+
+* **Proceedings Second Joint International Workshop on Linearity & Trends in Linear Logic and Applications**
+UD Lago, V de Paiva
+[arXiv preprint](https://arxiv.org/abs/2112.14305) 
+

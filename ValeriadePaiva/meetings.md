@@ -22,7 +22,7 @@
 
 ## Linearity/TLLA
 
-* **Proceedings Second Joint International Workshop on Linearity & Trends in Linear Logic and Applications**
+* **Proceedings Second Joint International Workshop on Linearity & Trends in Linear Logic and Applications (2020)**
 UD Lago, V de Paiva
 [arXiv preprint](https://arxiv.org/abs/2112.14305) 
 

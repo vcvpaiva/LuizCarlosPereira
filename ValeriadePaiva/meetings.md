@@ -47,5 +47,5 @@ Electronic Notes in Theoretical Computer Science 300, 1-104
 * **[Intuitionistic Modal Logic and Applications IMLA2005](https://www.cs.cmu.edu/~fp/imla05/)**
  Valeria de Paiva and Frank Pfenning
 
-* **Intuitionistic Modal Logic and Applications IMLA2004
+* **Intuitionistic Modal Logic and Applications IMLA2004**
 

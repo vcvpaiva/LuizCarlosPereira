@@ -1,6 +1,8 @@
 # Luiz Carlos Pereira
 
-a place to collect pdfs from the work of Luiz Carlos Pereira
+a place to collect pdfs from the work of Luiz Carlos Pereira.
+
+some publications and slides can be found in [Slides](0.
 
 ## List of Publications 
 

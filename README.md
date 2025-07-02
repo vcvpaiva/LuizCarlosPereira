@@ -2,7 +2,7 @@
 
 a place to collect pdfs from the work of Luiz Carlos Pereira.
 
-some publications and slides can be found in [Slides]()
+some publications and slides can be found in [Slides](https://github.com/vcvpaiva/LuizCarlosPereira/blob/main/slides.md)
 
 ## List of Publications 
 

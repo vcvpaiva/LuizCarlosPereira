@@ -9,6 +9,7 @@ a place to collect pdfs from my work
 * from arxiv https://arxiv.org/search/?searchtype=author&query=de+Paiva%2C+V
 * from Philpeople https://philpeople.org/profiles/valeria-de-paiva/publications
 * from DLBP https://dblp.org/pid/p/ValeriadePaiva.html
+* from Lattes http://lattes.cnpq.br/7858099156442558
 
 ## PhD Thesis: 
 **[The Dialectica Categories](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf)**
@@ -107,6 +108,10 @@ Ted Briscoe, Ann Copestake and Valeria de Paiva (hardcover 1994, softcover 2005)
 
 * **Bunge Festschrift: A volume celebrating Marta Bunge's contributions to category theory**
 Maria Manuel Clementino, Valeria de Paiva, Jonathon Funk, Theory and Applications of Categories (TAC), [volume 40](http://www.tac.mta.ca/tac/index.html#vol40), 2024 (18 papers)
+
+* **[40th Conference on Mathematical Foundations of Programming Semantics](https://entics.episciences.org/volume/view/id/962)**
+V de Paiva and Alex Simpson
+Electronic Notes in Theoretical Informatics and Computer Science 4, https://entics.episciences.org/volume/view/id/962
 
 * **Proceedings of the 4th Natural Logic Meets Machine Learning Workshop (NALOMA23)**
 Stergios Chatzikyriakidis and Valeria de Paiva, [ACL anthology](https://aclanthology.org/2023.naloma-1.0.pdf), 2023

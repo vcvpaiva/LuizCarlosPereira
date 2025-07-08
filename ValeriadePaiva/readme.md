@@ -111,7 +111,7 @@ Maria Manuel Clementino, Valeria de Paiva, Jonathon Funk, Theory and Application
 
 * **[40th Conference on Mathematical Foundations of Programming Semantics](https://entics.episciences.org/volume/view/id/962)**
 V de Paiva and Alex Simpson
-Electronic Notes in Theoretical Informatics and Computer Science 4, https://entics.episciences.org/volume/view/id/962
+Electronic Notes in Theoretical Informatics and Computer Science 4, [online](https://entics.episciences.org/volume/view/id/962)
 
 * **Proceedings of the 4th Natural Logic Meets Machine Learning Workshop (NALOMA23)**
 Stergios Chatzikyriakidis and Valeria de Paiva, [ACL anthology](https://aclanthology.org/2023.naloma-1.0.pdf), 2023

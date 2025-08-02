@@ -28,7 +28,7 @@ University of Cambridge, DPPMS, 1990. (Technical Report 1991)
 ```
 ## Books:
 
-(available from Amazon)
+(available from Amazon, 6)
 
 *  **Advances in Natural Deduction: A Celebration of Dag Prawitz's Work** (Trends in Logic Book 39)
 Luiz Carlos Pereira, Herman Hauesler & Valeria Correa Vaz De Paiva,
@@ -104,7 +104,7 @@ Ted Briscoe, Ann Copestake and Valeria de Paiva (hardcover 1994, softcover 2005)
 	year = {1994} }
 ```
 
-## Special Issues
+## Special Issues (15)
 
 * **Bunge Festschrift: A volume celebrating Marta Bunge's contributions to category theory**
 Maria Manuel Clementino, Valeria de Paiva, Jonathon Funk, Theory and Applications of Categories (TAC), [volume 40](http://www.tac.mta.ca/tac/index.html#vol40), 2024 (18 papers)
@@ -119,14 +119,14 @@ Stergios Chatzikyriakidis and Valeria de Paiva, [ACL anthology](https://aclantho
 * **10th Conference on Algebra and Coalgebra in Computer Science (CALCO 2023)**
   Paolo Baldan and Valeria de Paiva, Indiana University Bloomington, IN, USA, 2023, [LIPICs](https://d-nb.info/130093901X/34)
 
+* **Sixth Workshop on Natural Language and Computer Science (NLCS 2019)**
+  Robin Cooper, Valeria De Paiva, Lawrence S Moss, [ACL Anthology](https://aclanthology.org/W19-1100/)
+
 * **Second Workshop on Digital Humanities and Natural Language Processing (DHandNLP)**
    Trojahn, Cassia;  Finatto, Maria Jose;  Vieira, Renata;  Paiva, Valeria, PROPOR 2022, [CEUR](https://dspace.uevora.pt/rdpc/handle/10174/32157)
 
 * **Second Joint Workshop on Linearity & Trends in Linear Logic and Applications (TLLA 2020)**
   Ugo dal Lago and Valeria de Paiva, online, [arXiv:2112.14305](https://arxiv.org/abs/2112.14305)
-
-* **Sixth Workshop on Natural Language and Computer Science (NLCS 2019)**
-  Robin Cooper, Valeria De Paiva, Lawrence S Moss, [ACL Anthology](https://aclanthology.org/W19-1100/)
 
 * **Joint Workshop on Linearity & Trends in Linear Logic and Applications (TLLA 2018)**  
  Thomas Ehrhard, Maribel Fernández, Valeria de Paiva, Lorenzo Tortora de Falco, [arXiv:1904.06159](https://arxiv.org/abs/1904.06159)

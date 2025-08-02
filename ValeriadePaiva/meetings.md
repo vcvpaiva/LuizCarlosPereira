@@ -15,7 +15,7 @@
    Valeria De Paiva, Lawrence S Moss, [NLCS 2015](https://easychair.org/smart-program/NLCS'15/index.html) (proceedings above)
   
 * **Second Workshop on Natural Language and Computer Science (NLCS 2014)**
-  Christian Retoré, Valeria De Paiva, Lawrence S Moss, [NLCS 2014](https://easychair.org/smart-program/VSL2014/NLCS-program.html)
+  Christian Retoré, Valeria De Paiva, Lawrence S Moss, FLoC 2014, Vienna, [NLCS 2014](https://easychair.org/smart-program/VSL2014/NLCS-program.html) 
 
 * **Workshop on Natural Language and Computer Science (NLCS 2013)**
  Valeria De Paiva, Lawrence S Moss, [NLCS 2013](https://iulg.sitehost.iu.edu/nlcs2013.html)

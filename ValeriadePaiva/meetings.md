@@ -1,6 +1,6 @@
 ##  Meetings Organization
 
-## NLCS
+## NLCS (Natural Language and Computer Science)
 
 * **Sixth Workshop on Natural Language and Computer Science (NLCS 2019)**
   Robin Cooper, Valeria De Paiva, Lawrence S Moss, [NLCS 2019]()

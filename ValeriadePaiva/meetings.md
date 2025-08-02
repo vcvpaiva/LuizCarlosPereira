@@ -18,7 +18,7 @@
   Christian Retoré, Valeria De Paiva, Lawrence S Moss, FLoC 2014, Vienna, [NLCS 2014](https://easychair.org/smart-program/VSL2014/NLCS-program.html) 
 
 * **Workshop on Natural Language and Computer Science (NLCS 2013)**
- Valeria De Paiva, Lawrence S Moss, [NLCS 2013](https://iulg.sitehost.iu.edu/nlcs2013.html)
+ Valeria De Paiva, Lawrence S Moss, LiCS 2013, New Orleans, [NLCS 2013](https://iulg.sitehost.iu.edu/nlcs2013.html)
 
 ## Linearity/TLLA
 

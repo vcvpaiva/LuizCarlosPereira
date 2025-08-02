@@ -104,6 +104,9 @@ Ted Briscoe, Ann Copestake and Valeria de Paiva (hardcover 1994, softcover 2005)
 	year = {1994} }
 ```
 
+Some meetings [organized]() by me.
+
+
 ## Special Issues (15)
 
 * **Bunge Festschrift: A volume celebrating Marta Bunge's contributions to category theory**

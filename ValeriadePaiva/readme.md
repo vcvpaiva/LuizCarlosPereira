@@ -30,6 +30,19 @@ University of Cambridge, DPPMS, 1990. (Technical Report 1991)
 
 (available from [Amazon](https://www.amazon.com/author/valeriapaiva), 7)
 
+*  **Intelligent Computer Mathematics: 18th International Conference, CICM 2025)**  (Lecture Notes in Computer Science Book 16136)
+Valeria de Paiva and Peter Koepke,
+Springer (2025)
+
+``` Bibtex
+@book{paiva2025,
+	author = {Valeria de Paiva and Peter Koepke},
+	editor = {},
+	publisher = {Springer},
+	title = {Intelligent Computer Mathematics: 18th International Conference, CICM 2025) (Lecture Notes in Computer Science Book 16136)},
+	year = {2025}}
+```
+
 *  **Advances in Natural Deduction: A Celebration of Dag Prawitz's Work** (Trends in Logic Book 39)
 Luiz Carlos Pereira, Herman Hauesler & Valeria Correa Vaz De Paiva,
 Springer (2014)

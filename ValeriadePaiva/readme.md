@@ -28,7 +28,7 @@ University of Cambridge, DPPMS, 1990. (Technical Report 1991)
 ```
 ## Books:
 
-(available from Amazon, 6)
+(available from [Amazon](https://www.amazon.com/author/valeriapaiva), 7)
 
 *  **Advances in Natural Deduction: A Celebration of Dag Prawitz's Work** (Trends in Logic Book 39)
 Luiz Carlos Pereira, Herman Hauesler & Valeria Correa Vaz De Paiva,

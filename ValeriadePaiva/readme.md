@@ -2,7 +2,7 @@
 
 a place to collect pdfs from my work
 
-## List of Publications 
+## Lists of Publications 
 
 * from Google Scholar https://scholar.google.com/citations?user=AYdo1hMAAAAJ&hl=en
 * from ORCID https://orcid.org/0000-0002-1078-6970
@@ -116,6 +116,11 @@ Ted Briscoe, Ann Copestake and Valeria de Paiva (hardcover 1994, softcover 2005)
 	title = {Inheritance, Defaults, and the Lexicon},
 	year = {1994} }
 ```
+## These Examined
+
+See [this](https://github.com/vcvpaiva/LuizCarlosPereira/blob/main/ValeriadePaiva/phds.md).
+
+## Meetings organized
 
 Some meetings [organized](https://github.com/vcvpaiva/LuizCarlosPereira/blob/main/ValeriadePaiva/meetings.md) by me.
 

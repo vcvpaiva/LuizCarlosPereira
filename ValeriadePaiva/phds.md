@@ -6,6 +6,6 @@ PhD and Master's theses examined
 4. Yakoub Salhi, `Multi-contextual Structures and Intuitionistic Modal Logics', Nancy, 2010.
 5. Cécilia Pradic, `“SOME PROOF-THEORETIC APPROACHES TO MONADIC SECOND-ORDER LOGIC”, Lyon, 2020.
 6. Davide Catta, `Les preuves vues comme des jeux et réciproquement: sémantique dialogique de langages naturel ou logique', Montpellier, 2021.
-7. Cédric de Lacroix, `Categorical variations on Frobenius quantales', 
-8. Ana Luiza Tenorio
-9. Émilie Grienenberger
+8. Ana Luiza Tenorio, `Sheaves on semicartesian monoidal categories and applications in the quantalic case', USP, 2023.
+9. Cédric de Lacroix, `Categorical variations on Frobenius quantales', Montpellier, 2024.
+10. Émilie Grienenberger, `Combinaisons de théories calculatoires / Combining computational theories', Paris-Saclay, 2025. 

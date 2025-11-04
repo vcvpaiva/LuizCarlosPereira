@@ -116,7 +116,7 @@ Ted Briscoe, Ann Copestake and Valeria de Paiva (hardcover 1994, softcover 2005)
 	title = {Inheritance, Defaults, and the Lexicon},
 	year = {1994} }
 ```
-## These Examined
+## Theses Examined
 
 See [this](https://github.com/vcvpaiva/LuizCarlosPereira/blob/main/ValeriadePaiva/phds.md).
 

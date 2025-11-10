@@ -10,3 +10,8 @@ PhD and Master's theses examined
 8. Ana Luiza Tenorio, `Sheaves on semicartesian monoidal categories and applications in the quantalic case', USP, 2023.
 9. Cédric de Lacroix, `Categorical variations on Frobenius quantales', Montpellier, 2024.
 10. Émilie Grienenberger, `Combinaisons de théories calculatoires / Combining computational theories', Paris-Saclay, 2025. 
+
+
+Master's thesis:
+1. Roberta Viola, `EM BUSCA DA PALAVRA MAIS ENGENHOSA: COGNIÇÃO E PROCESSAMENTO AUTOMÁTICO DE LÍNGUA NATURAL COM CODENAMES', UFMG, Belo Horizonte, 2021.
+2. 

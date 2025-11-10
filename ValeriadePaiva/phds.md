@@ -14,4 +14,4 @@ PhD and Master's theses examined
 
 Master's thesis:
 1. Roberta Viola, `EM BUSCA DA PALAVRA MAIS ENGENHOSA: COGNIÇÃO E PROCESSAMENTO AUTOMÁTICO DE LÍNGUA NATURAL COM CODENAMES', UFMG, Belo Horizonte, 2021.
-2. 
+2. Ana Luiza Tenorio, 'Cohomologia de Feixes em Categorias Monoidais Semicartesianas', qualifying exam, USP, Sao Paulo, 2021.

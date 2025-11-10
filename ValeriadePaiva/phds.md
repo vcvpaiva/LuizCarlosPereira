@@ -5,7 +5,8 @@ PhD and Master's theses examined
 3. Andrew Barber, `Linear Type Theories, Semantics and Action Calculi', Edinburgh, 1997.
 4. Yakoub Salhi, `Multi-contextual Structures and Intuitionistic Modal Logics', Nancy, 2010.
 5. Cécilia Pradic, `“SOME PROOF-THEORETIC APPROACHES TO MONADIC SECOND-ORDER LOGIC”, Lyon, 2020.
-6. Davide Catta, `Les preuves vues comme des jeux et réciproquement: sémantique dialogique de langages naturel ou logique', Montpellier, 2021.
+6. Felipe Salvatore, `Analysing Natural Language Inference from a Rigorous Point of View', USP, Sao Paulo, 2020.
+7. Davide Catta, `Les preuves vues comme des jeux et réciproquement: sémantique dialogique de langages naturel ou logique', Montpellier, 2021.
 8. Ana Luiza Tenorio, `Sheaves on semicartesian monoidal categories and applications in the quantalic case', USP, 2023.
 9. Cédric de Lacroix, `Categorical variations on Frobenius quantales', Montpellier, 2024.
 10. Émilie Grienenberger, `Combinaisons de théories calculatoires / Combining computational theories', Paris-Saclay, 2025. 

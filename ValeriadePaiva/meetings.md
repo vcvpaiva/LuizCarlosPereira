@@ -20,9 +20,11 @@ Meetings organized mostly with Prof [Larry Moss](https://math.indiana.edu/about/
   Christian Retoré, Valeria De Paiva, Lawrence S Moss, FLoC 2014, Vienna, [NLCS 2014](https://easychair.org/smart-program/VSL2014/NLCS-program.html) 
 
 * **Workshop on Natural Language and Computer Science (NLCS 2013)**
- Valeria De Paiva, Lawrence S Moss, LiCS 2013, New Orleans, [NLCS 2013](https://iulg.sitehost.iu.edu/nlcs2013.html)
+ Valeria De Paiva, Lawrence S Moss, LiCS 2013, New Orleans, [NLCS 2013](https://logic.indiana.edu/_archive/web/nlcsprog.html)
 
 ## Linearity/TLLA
+
+I was invited to co-chair the [Linear Workshop]() for two years.
 
 * **Proceedings Second Joint International Workshop on Linearity & Trends in Linear Logic and Applications (2020)**
 Ugo Del Lago, Valeria de Paiva

@@ -11,7 +11,7 @@ Meetings organized mostly with Prof [Larry Moss](https://math.indiana.edu/about/
   Ash Asudeh, Valeria De Paiva, Lawrence S Moss, [NLCS 2018](https://logic.indiana.edu/_archive/web/nlcs2018.html)
 
 * **Fourth Workshop on Natural Language and Computer Science (NLCS 2016)**
-  Chris Barker, Valeria De Paiva, Lawrence S Moss, [NLCS 2016](https://iulg.sitehost.iu.edu/nlcs16.html)
+  Chris Barker, Valeria De Paiva, Lawrence S Moss, [NLCS 2016](https://logic.indiana.edu/_archive/web/nlcsold16.html)
 
 * **Third Workshop on Natural Language and Computer Science (NLCS 2015)**
    Makoto Kanazawa, Valeria De Paiva, Lawrence S Moss, NLCS@ICALP/LICS 2015, Kyoto, Japan, 2015, [NLCS 2015](https://easychair.org/smart-program/NLCS'15/index.html) 

@@ -2,6 +2,8 @@
 
 ## NLCS (Natural Language and Computer Science)
 
+Meetings organized mostly with Prof [Larry Moss](https://math.indiana.edu/about/faculty/moss-larry.html) (Indiana University) to foster collaboration between theoretical computer scientists and computational linguists.
+
 * **Sixth Workshop on Natural Language and Computer Science (NLCS 2019)**
   Robin Cooper, Valeria De Paiva, Lawrence S Moss, [NLCS 2019]()
 

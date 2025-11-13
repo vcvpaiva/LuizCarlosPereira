@@ -5,7 +5,7 @@
 Meetings organized mostly with Prof [Larry Moss](https://math.indiana.edu/about/faculty/moss-larry.html) (Indiana University) to foster collaboration between theoretical computer scientists and computational linguists.
 
 * **Sixth Workshop on Natural Language and Computer Science (NLCS 2019)**
-  Robin Cooper, Valeria De Paiva, Lawrence S Moss, [NLCS 2019]()
+  Robin Cooper, Valeria De Paiva, Lawrence S Moss, [NLCS 2019](https://aclanthology.org/W19-1100.pdf)
 
 * **Fifth Workshop on Natural Language and Computer Science (NLCS 2018)**
   Ash Asudeh, Valeria De Paiva, Lawrence S Moss, [NLCS 2018](https://iulg.sitehost.iu.edu/nlcs2018.html)

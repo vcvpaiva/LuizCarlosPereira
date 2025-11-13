@@ -24,7 +24,7 @@ Meetings organized mostly with Prof [Larry Moss](https://math.indiana.edu/about/
 
 ## Linearity/TLLA
 
-I was invited to co-chair the [Linear Workshop]() for two years.
+I was invited to co-chair the [Linearity Workshop](http://linearity.org.uk/) for two years.
 
 * **Proceedings Second Joint International Workshop on Linearity & Trends in Linear Logic and Applications (2020)**
 Ugo Del Lago, Valeria de Paiva

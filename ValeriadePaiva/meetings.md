@@ -37,7 +37,7 @@ T Ehrhard, M Fernández, V de Paiva, LT de Falco
 ## IMLA
 
 Meetings organized to cover the breadth of intuitionistic modal logics and applications, especially to computing and modal type theory.
-
+I was involved in organizing all, but the first one in 1999.
 
 * **Special Issue of IfCoLog Journal: Intuitionistic Modal Logic and Applications IMLA (2017)**
 eds. Valeria de Paiva and Sergei Artemov

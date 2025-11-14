@@ -37,7 +37,7 @@ T Ehrhard, M Fernández, V de Paiva, LT de Falco
 ## IMLA
 
 Meetings organized to cover the breadth of intuitionistic modal logics and applications, especially to computing and modal type theory.
-I was involved in organizing all, but the first [IMLA in 1999](https://docs.google.com/document/d/19uzF7Ld2J63UGeiHUe6n7QEPwCqN19N1ucz3VXZUHa0/edit?tab=t.0). 
+I was involved in organizing all, but the [first IMLA](https://docs.google.com/document/d/19uzF7Ld2J63UGeiHUe6n7QEPwCqN19N1ucz3VXZUHa0/edit?tab=t.0) in 1999. 
 
 We can read why I think this is important in the blog posts: [Why Constructive Modal Logics?](https://logic-forall.blogspot.com/2012/09/why-constructive-modal-logics.html) and [Wayback Machine, I love you! IMLA 1999 ](https://logic-forall.blogspot.com/2012/10/wayback-machine-i-love-you-imla-1999.html)
 
@@ -60,10 +60,13 @@ Associated with UNILOG 2013
 eds. V de Paiva, M Benevides, V Nigam, E Pimentel
 [Electronic Notes in Theoretical Computer Science 300, 1-104](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/300/suppl/C), 2014
 
-* **Proceedings of the 5th Workshop on Intuitionistic Modal Logic and Applications (IMLA 2008)**
+* **Proceedings of the [5th Workshop on Intuitionistic Modal Logic and Applications (IMLA 2011)]()** The Invited Speaker was Torben Brauner. I believe the organizers were Aleks Nanevski and me, as per this [technical report](https://www.microsoft.com/en-us/research/wp-content/uploads/2008/06/tr-2008-90.pdf), but I'm not sure. The post-meeting special issue of Information and Computation, covering both IMLA2008 and IMLA2005, was edited by Brigitte Pientka and Valeria de Paiva.
+
+
+* **Proceedings of the [4th Workshop on Intuitionistic Modal Logic and Applications (IMLA 2008)](https://www.cs.cmu.edu/afs/cs.cmu.edu/user/brookes/www/LICS2008/IMLAtalkschedule.pdf)** The Invited Speaker was Torben Brauner. I believe the organizers were Aleks Nanevski and me, as per this [technical report](https://www.microsoft.com/en-us/research/wp-content/uploads/2008/06/tr-2008-90.pdf), but I'm not sure. The post-meeting special issue of Information and Computation, covering both IMLA2008 and IMLA2005, was edited by Brigitte Pientka and Valeria de Paiva.
 
 * **[3rd Intuitionistic Modal Logic and Applications IMLA2005](https://www.cs.cmu.edu/~fp/imla05/)**
- organizers: Valeria de Paiva and Frank Pfenning
+  Organizers: Valeria de Paiva and Frank Pfenning, Invited Speakers: David Walker( Princeton) and Yde Venema (Amsterdam). A blog post is [here](https://logic-forall.blogspot.com/2013/08/imla-2005-chicago.html)
 
 * **[2nd Intuitionistic Modal Logic and Applications IMLA2002](https://logic-forall.blogspot.com/2013/08/imla-2002-copenhagen.html)** FLoC 2002, Copenhagen. Organizers were Michael Mendler, Rajeev Gore, and Valeria de Paiva. The Invited Speakers were Dana Scott and Giovanni Sambin.
  A special issue  of the Journal of Logic and Computation,  [Modalities in constructive logics and type theories](https://academic.oup.com/logcom/issue/14/4), appeared in 2004. The preface is available on [ResearchGate](https://www.researchgate.net/publication/246843395_Modalities_in_constructive_logics_and_type_theories).

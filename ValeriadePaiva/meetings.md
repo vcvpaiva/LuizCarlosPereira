@@ -47,8 +47,7 @@ special issue of Journal of Applied Logics, eds. Valeria de Paiva and Sergei Art
   - [Journal of Applied Logics 8 (8)](https://www.collegepublications.co.uk/downloads/ifcolog00050.pdf), 2021
 
   - [meeting](https://www.irit.fr/esslli2017/workshops/4.html), ESLLI workshop, 2017
-  
-  - [program](https://web.archive.org/web/20201012092401/https://sites.google.com/site/modallogicimla2017/program) (from wayback machine)
+ [program](https://web.archive.org/web/20201012092401/https://sites.google.com/site/modallogicimla2017/program) (from wayback machine)
 
 * **[Proceedings of the 7th Workshop on Intuitionistic Modal Logic (IMLA 2015)](https://academic.oup.com/logcom/issue/28/5):**
 Special issue of the  Journal of Logic and Computation, Volume 28 Number 5 July 2018, eds. Natasha Alechina, Valeria de Paiva.
@@ -60,7 +59,7 @@ Associated with UNILOG 2013
 eds. V de Paiva, M Benevides, V Nigam, E Pimentel
 [Electronic Notes in Theoretical Computer Science 300, 1-104](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/300/suppl/C), 2014
 
-* **Proceedings of the [5th Workshop on Intuitionistic Modal Logic and Applications (IMLA 2011)]()** The Invited Speakers were Frank Pfenning and Torben Brauner. I believe the organizers were Aleks Nanevski and me, as per this [technical report](https://www.microsoft.com/en-us/research/wp-content/uploads/2008/06/tr-2008-90.pdf), but I'm not sure. The post-meeting special issue of Information and Computation, covering both IMLA2008 and IMLA2005, was edited by Brigitte Pientka and Valeria de Paiva.
+* **Proceedings of the [5th Workshop on Intuitionistic Modal Logic and Applications (IMLA 2011)]()** The Invited Speakers were Frank Pfenning and Torben Brauner. I believe the organizers were Aleks Nanevski and me, as per this [technical report](https://www.microsoft.com/en-us/research/wp-content/uploads/2008/06/tr-2008-90.pdf), but I'm not sure. The post-meeting [special issue of Information and Computation](https://www.sciencedirect.com/science/article/pii/S089054011100143X?via%3Dihub), covering both IMLA2008 and IMLA2005, was edited by Brigitte Pientka and Valeria de Paiva.
 
 
 * **Proceedings of the [4th Workshop on Intuitionistic Modal Logic and Applications (IMLA 2008)](https://www.cs.cmu.edu/afs/cs.cmu.edu/user/brookes/www/LICS2008/IMLAtalkschedule.pdf)** The Invited Speaker was Torben Brauner. I believe the organizers were Aleks Nanevski and me, as per this [technical report](https://www.microsoft.com/en-us/research/wp-content/uploads/2008/06/tr-2008-90.pdf), but I'm not sure. The post-meeting special issue of Information and Computation, covering both IMLA2008 and IMLA2005, was edited by Brigitte Pientka and Valeria de Paiva.

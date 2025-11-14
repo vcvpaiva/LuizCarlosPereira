@@ -37,7 +37,9 @@ T Ehrhard, M Fernández, V de Paiva, LT de Falco
 ## IMLA
 
 Meetings organized to cover the breadth of intuitionistic modal logics and applications, especially to computing and modal type theory.
-I was involved in organizing all, but the first one in 1999.
+I was involved in organizing all, but the first [IMLA in 1999](https://docs.google.com/document/d/19uzF7Ld2J63UGeiHUe6n7QEPwCqN19N1ucz3VXZUHa0/edit?tab=t.0). 
+
+We can read why I think this is important in the blog posts: [Why Constructive Modal Logics?](https://logic-forall.blogspot.com/2012/09/why-constructive-modal-logics.html) and [Wayback Machine, I love you! IMLA 1999 ](https://logic-forall.blogspot.com/2012/10/wayback-machine-i-love-you-imla-1999.html)
 
 * **Intuitionistic Modal Logic and Applications IMLA (2017)**
 special issue of Journal of Applied Logics, eds. Valeria de Paiva and Sergei Artemov
@@ -58,10 +60,11 @@ Associated with UNILOG 2013
 eds. V de Paiva, M Benevides, V Nigam, E Pimentel
 [Electronic Notes in Theoretical Computer Science 300, 1-104](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/300/suppl/C), 2014
 
-* **[Intuitionistic Modal Logic and Applications IMLA2005](https://www.cs.cmu.edu/~fp/imla05/)**
+* **Proceedings of the 5th Workshop on Intuitionistic Modal Logic and Applications (IMLA 2008)**
+
+* **[3rd Intuitionistic Modal Logic and Applications IMLA2005](https://www.cs.cmu.edu/~fp/imla05/)**
  organizers: Valeria de Paiva and Frank Pfenning
 
-special issue
-
-* **Intuitionistic Modal Logic and Applications IMLA2004**
+* **[2nd Intuitionistic Modal Logic and Applications IMLA2002](https://logic-forall.blogspot.com/2013/08/imla-2002-copenhagen.html)** FLoC 2002, Copenhagen. Organizers were Michael Mendler, Rajeev Gore, and Valeria de Paiva. The Invited Speakers were Dana Scott and Giovanni Sambin.
+ A special issue  of the Journal of Logic and Computation,  [Modalities in constructive logics and type theories](https://academic.oup.com/logcom/issue/14/4), appeared in 2004. The preface is available on [ResearchGate](https://www.researchgate.net/publication/246843395_Modalities_in_constructive_logics_and_type_theories).
 

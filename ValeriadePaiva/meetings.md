@@ -44,12 +44,13 @@ special issue of Journal of Applied Logics, eds. Valeria de Paiva and Sergei Art
 
   - [Journal of Applied Logics 8 (8)](https://www.collegepublications.co.uk/downloads/ifcolog00050.pdf), 2021
 
-  - [meeting](https://www.irit.fr/esslli2017/workshops/4.html), 2017, part of ESLLI
+  - [meeting](https://www.irit.fr/esslli2017/workshops/4.html), ESLLI workshop, 2017
   
   - [program](https://web.archive.org/web/20201012092401/https://sites.google.com/site/modallogicimla2017/program) (from wayback machine)
 
-* **Intuitionistic Modal Logic (IMLA 2015): [A 15-year retrospective](https://academic.oup.com/logcom/article-abstract/28/5/873/2917820)**
-eds. Natasha Alechina, Valeria de Paiva, Journal of Logic and Computation, Volume 28 Number 5 July 2018
+* **[Intuitionistic Modal Logic (IMLA 2015)](https://academic.oup.com/logcom/issue/28/5):**
+Special issue of the  Journal of Logic and Computation, Volume 28 Number 5 July 2018, eds. Natasha Alechina, Valeria de Paiva.
+Survey [A 15-year retrospective](https://academic.oup.com/logcom/article-abstract/28/5/873/2917820), by Stewart, Alechina and de Paiva.
 
 
 * **Proceedings of the 6th Workshop on Intuitionistic Modal Logic and Applications (IMLA 2013)**

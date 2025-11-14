@@ -39,11 +39,14 @@ T Ehrhard, M Fernández, V de Paiva, LT de Falco
 Meetings organized to cover the breadth of intuitionistic modal logics and applications, especially to computing and modal type theory.
 I was involved in organizing all, but the first one in 1999.
 
-* **Special Issue of IfCoLog Journal: Intuitionistic Modal Logic and Applications IMLA (2017)**
-eds. Valeria de Paiva and Sergei Artemov
-Journal of Applied Logics - [IfCoLog Journal 8 (8)](https://www.collegepublications.co.uk/downloads/ifcolog00050.pdf)
+* **Intuitionistic Modal Logic and Applications IMLA (2017)**
+special issue of Journal of Applied Logics, eds. Valeria de Paiva and Sergei Artemov
 
-[meeting](https://www.irit.fr/esslli2017/workshops/4.html) [program](https://web.archive.org/web/20201012092401/https://sites.google.com/site/modallogicimla2017/program) (from the wayback machine)
+  - [IfCoLog Journal 8 (8)](https://www.collegepublications.co.uk/downloads/ifcolog00050.pdf)
+
+  - [meeting](https://www.irit.fr/esslli2017/workshops/4.html)
+  
+  - [program](https://web.archive.org/web/20201012092401/https://sites.google.com/site/modallogicimla2017/program) (from the wayback machine)
 
 * **Intuitionistic Modal Logic (IMLA 2015): [A 15-year retrospective](https://academic.oup.com/logcom/article-abstract/28/5/873/2917820)**
 eds. Natasha Alechina, Valeria de Paiva, Journal of Logic and Computation, Volume 28 Number 5 July 2018

@@ -39,7 +39,8 @@ T Ehrhard, M Fernández, V de Paiva, LT de Falco
 Meetings organized to cover the breadth of intuitionistic modal logics and applications, especially to computing and modal type theory.
 I was involved in organizing all, but the [first IMLA](https://docs.google.com/document/d/19uzF7Ld2J63UGeiHUe6n7QEPwCqN19N1ucz3VXZUHa0/edit?tab=t.0) in 1999. 
 
-We can read why I think this is important in the blog posts: [Why Constructive Modal Logics?](https://logic-forall.blogspot.com/2012/09/why-constructive-modal-logics.html) and [Wayback Machine, I love you! IMLA 1999 ](https://logic-forall.blogspot.com/2012/10/wayback-machine-i-love-you-imla-1999.html)
+We can read why I think this is important in the blog posts: [Why Constructive Modal Logics?](https://logic-forall.blogspot.com/2012/09/why-constructive-modal-logics.html) and [Wayback Machine, I love you! IMLA 1999 ](https://logic-forall.blogspot.com/2012/10/wayback-machine-i-love-you-imla-1999.html).
+Here are some descriptions of the workshops and their published results.
 
 * **Proceedings of the 8th Workshop on Intuitionistic Modal Logic and Applications IMLA (2017)**
 special issue of Journal of Applied Logics, eds. Valeria de Paiva and Sergei Artemov

@@ -42,11 +42,11 @@ I was involved in organizing all, but the first one in 1999.
 * **Intuitionistic Modal Logic and Applications IMLA (2017)**
 special issue of Journal of Applied Logics, eds. Valeria de Paiva and Sergei Artemov
 
-  - [IfCoLog Journal 8 (8)](https://www.collegepublications.co.uk/downloads/ifcolog00050.pdf)
+  - [Journal of Applied Logics 8 (8)](https://www.collegepublications.co.uk/downloads/ifcolog00050.pdf), 2021
 
-  - [meeting](https://www.irit.fr/esslli2017/workshops/4.html)
+  - [meeting](https://www.irit.fr/esslli2017/workshops/4.html), 2017, part of ESLLI
   
-  - [program](https://web.archive.org/web/20201012092401/https://sites.google.com/site/modallogicimla2017/program) (from the wayback machine)
+  - [program](https://web.archive.org/web/20201012092401/https://sites.google.com/site/modallogicimla2017/program) (from wayback machine)
 
 * **Intuitionistic Modal Logic (IMLA 2015): [A 15-year retrospective](https://academic.oup.com/logcom/article-abstract/28/5/873/2917820)**
 eds. Natasha Alechina, Valeria de Paiva, Journal of Logic and Computation, Volume 28 Number 5 July 2018

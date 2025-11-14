@@ -36,20 +36,30 @@ T Ehrhard, M Fernández, V de Paiva, LT de Falco
 
 ## IMLA
 
-* **Intuitionistic Modal Logic (IMLA 2015): A 15-year retrospective**
-eds. Natasha Alechina, Valeria de Paiva Journal of Logic and Computation, Volume 28 Number 5 July 2018
+Meetings organized to cover the breadth of intuitionistic modal logics and applications, especially to computing and modal type theory.
+
 
 * **Special Issue of IfCoLog Journal: Intuitionistic Modal Logic and Applications IMLA (2017)**
 eds. Valeria de Paiva and Sergei Artemov
-Journal of Applied Logics - IfCoLog Journal 8 (8)
+Journal of Applied Logics - [IfCoLog Journal 8 (8)](https://www.collegepublications.co.uk/downloads/ifcolog00050.pdf)
+
+[meeting](https://www.irit.fr/esslli2017/workshops/4.html)
+
+* **Intuitionistic Modal Logic (IMLA 2015): [A 15-year retrospective](https://academic.oup.com/logcom/article-abstract/28/5/873/2917820)**
+eds. Natasha Alechina, Valeria de Paiva Journal of Logic and Computation, Volume 28 Number 5 July 2018
+
+[wayback machine program](https://web.archive.org/web/20201012092401/https://sites.google.com/site/modallogicimla2017/program)
+
 
 * **Proceedings of the 6th Workshop on Intuitionistic Modal Logic and Applications (IMLA 2013)**
- in association with UNILOG 2013
+Associated with UNILOG 2013
 eds. V de Paiva, M Benevides, V Nigam, E Pimentel
-Electronic Notes in Theoretical Computer Science 300, 1-104
+[Electronic Notes in Theoretical Computer Science 300, 1-104](https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/300/suppl/C), 2014
 
 * **[Intuitionistic Modal Logic and Applications IMLA2005](https://www.cs.cmu.edu/~fp/imla05/)**
- Valeria de Paiva and Frank Pfenning
+ organizers: Valeria de Paiva and Frank Pfenning
+
+special issue
 
 * **Intuitionistic Modal Logic and Applications IMLA2004**
 

@@ -41,7 +41,7 @@ I was involved in organizing all, but the [first IMLA](https://docs.google.com/d
 
 We can read why I think this is important in the blog posts: [Why Constructive Modal Logics?](https://logic-forall.blogspot.com/2012/09/why-constructive-modal-logics.html) and [Wayback Machine, I love you! IMLA 1999 ](https://logic-forall.blogspot.com/2012/10/wayback-machine-i-love-you-imla-1999.html)
 
-* **Intuitionistic Modal Logic and Applications IMLA (2017)**
+* **Proceedings of the 8th Workshop on Intuitionistic Modal Logic and Applications IMLA (2017)**
 special issue of Journal of Applied Logics, eds. Valeria de Paiva and Sergei Artemov
 
   - [Journal of Applied Logics 8 (8)](https://www.collegepublications.co.uk/downloads/ifcolog00050.pdf), 2021
@@ -50,7 +50,7 @@ special issue of Journal of Applied Logics, eds. Valeria de Paiva and Sergei Art
   
   - [program](https://web.archive.org/web/20201012092401/https://sites.google.com/site/modallogicimla2017/program) (from wayback machine)
 
-* **[Intuitionistic Modal Logic (IMLA 2015)](https://academic.oup.com/logcom/issue/28/5):**
+* **[Proceedings of the 7th Workshop on Intuitionistic Modal Logic (IMLA 2015)](https://academic.oup.com/logcom/issue/28/5):**
 Special issue of the  Journal of Logic and Computation, Volume 28 Number 5 July 2018, eds. Natasha Alechina, Valeria de Paiva.
 Survey [A 15-year retrospective](https://academic.oup.com/logcom/article-abstract/28/5/873/2917820), by Stewart, Alechina and de Paiva.
 

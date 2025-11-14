@@ -1,6 +1,6 @@
 ##  Meetings Organization
 
-## NLCS (Natural Language and Computer Science)
+## Natural Language and Computer Science (NLCS)
 
 Meetings organized together with Prof [Larry Moss](https://math.indiana.edu/about/faculty/moss-larry.html) (Indiana University) to foster collaboration between theoretical computer scientists and computational linguists.
 

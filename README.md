@@ -1,12 +1,12 @@
 # Luiz Carlos Pereira
 
-a place to collect pdfs from the work of Luiz Carlos Pereira.
+a place to collect pdfs from the work of Luiz Carlos Pereira. 
 
 some publications and slides can be found in [Slides](https://github.com/vcvpaiva/LuizCarlosPereira/blob/main/slides.md)
 
 ## List of Publications 
 
-* from Philpeople https://philpeople.org/profiles/luiz-carlos-pereira/publications
+* from Philpeople https://philpeople.org/profiles/luiz-carlos-pereira/publications (36 entries)
 * from DLBP https://dblp.org/pid/55/4356.html (25 entries)
 
 ## PhD Thesis: 

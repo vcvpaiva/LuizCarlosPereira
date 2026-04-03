@@ -94,4 +94,4 @@ Proceedings of the Tenth Brazilian Conference on Mathematical Logic. Coleção C
 
 ## Some Papers
 
-* [Gentezen's Second Consistency Proof and Strong Cut-Elimnation]() ** (with Hermann Hausler)
+* [Gentzen's Second Consistency Proof and Strong Cut-Elimnation]() (with Hermann Hausler)

@@ -65,7 +65,7 @@ Nau Editora. 2010.
 }
 ```
 
-* **Logic, Language and Knowledge: Essays in Honour of Oswaldo Chateaubriand Filho**
+* Logic, Language and Knowledge: Essays in Honour of Oswaldo Chateaubriand Filho**
 Luiz Carlos P. D. Pereira, Michael Beaumont Wrigley & Oswaldo Chateaubriand Filho
 Unicamp (1999)
 
@@ -91,3 +91,7 @@ Proceedings of the Tenth Brazilian Conference on Mathematical Logic. Coleção C
 	title = {Logic, Sets and Information: Proceedings of the Tenth Brazilian Conference on Mathematical Logic},
 	year = {1995}}
 ```
+
+## Some Papers
+
+* [Gentezen's Second Consistency Proof and Strong Cut-Elimnation]() ** (with Hermann Hausler)

@@ -60,21 +60,21 @@ Nau Editora. 2010.
 	address = {Rio de Janeiro},
 	editor = {Edgar Marques and Ethel Rocha and Lia Levy and Marcos A. Gleizer and Luiz Carlos Pereira},
 	publisher = {Nau Editora},
-	title = {Caminhos da Raz\~{a}o. Estudos Em Homenagem a Guido Ant\^{o}nio de Almeida e Raul Ferreira Landim Filho},
+	title = {Caminhos da Raz\~{a}o. Estudos em homenagem a Guido Antônio de Almeida e Raul Ferreira Landim Filho,
 	year = {2010}
 }
 ```
 
 * Logic, Language and Knowledge: Essays in Honour of Oswaldo Chateaubriand Filho**
-Luiz Carlos P. D. Pereira, Michael Beaumont Wrigley & Oswaldo Chateaubriand Filho
+Luiz Carlos P. D. Pereira, Michael B. Wrigley & Oswaldo Chateaubriand Filho
 Unicamp (1999)
 
 ``` Bibtex
 @book{Pereira1999-PERLLA-3,
-	author = {Luiz Carlos P. D. Pereira and Michael Beaumont Wrigley and Oswaldo Chateaubriand Filho},
+	author = {Luiz Carlos P. D. Pereira and Michael B. Wrigley and Oswaldo Chateaubriand Filho},
 	editor = {},
 	publisher = {Unicamp},
-	title = {Logic, Language and Knowledge Essays in Honour of Oswaldo Chateaubriand Filho},
+	title = {Logic, Language and Knowledge -- Essays in Honour of Oswaldo Chateaubriand Filho},
 	year = {1999}}
 ```
 
@@ -87,11 +87,11 @@ Proceedings of the Tenth Brazilian Conference on Mathematical Logic. Coleção C
 @book{Carnielli1995-CARLSA-2,
 	address = {Campinas, SP, Brazil},
 	editor = {Walter A. Carnielli and Luiz Carlos P. D. Pereira},
-	publisher = {Centro de Lo?gica, Epistemologia e Histo?ria da Cie?ncia, UNICAMP},
+	publisher = {Centro de Logica, Epistemologia e Historia da Ciencia, UNICAMP},
 	title = {Logic, Sets and Information: Proceedings of the Tenth Brazilian Conference on Mathematical Logic},
 	year = {1995}}
 ```
 
 ## Some Papers
 
-* [Gentzen's Second Consistency Proof and Strong Cut-Elimnation]() (with Hermann Hausler)
+* [Gentzen's Second Consistency Proof and Strong Cut-Elimination]() (with Hermann Hausler)

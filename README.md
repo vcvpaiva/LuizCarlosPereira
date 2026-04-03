@@ -94,4 +94,4 @@ Proceedings of the Tenth Brazilian Conference on Mathematical Logic. Coleção C
 
 ## Some Papers
 
-* [Gentzen's Second Consistency Proof and Strong Cut-Elimination](https://github.com/vcvpaiva/LuizCarlosPereira/blob/main/HAUESLER-GENTZENSSECONDCONSISTENCY-1996.pdf) (with Hermann Hausler)
+* [Gentzen's Second Consistency Proof and Strong Cut-Elimination](https://github.com/vcvpaiva/LuizCarlosPereira/blob/main/HAUESLER-GENTZENSSECONDCONSISTENCY-1996.pdf) (with Hermann Hauesler, 1996)

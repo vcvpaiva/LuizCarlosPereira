@@ -7,7 +7,7 @@ some publications and slides can be found in [Slides](https://github.com/vcvpaiv
 ## List of Publications 
 
 * from Philpeople https://philpeople.org/profiles/luiz-carlos-pereira/publications
-* from DLBP https://dblp.org/pid/55/4356.html
+* from DLBP https://dblp.org/pid/55/4356.html (25 entries)
 
 ## PhD Thesis: 
 **On the estimation of the length of normal derivations**

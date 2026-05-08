@@ -12,6 +12,7 @@ a place to collect pdfs from my work
 * from Lattes http://lattes.cnpq.br/7858099156442558
 
 ## PhD Thesis: 
+From the Computer Laboratory, University of Cambridge:
 **[The Dialectica Categories](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf)**
 
 Valeria Correa Vaz de Paiva, 
@@ -58,7 +59,7 @@ Springer (2014)
 
 * **Intuitionistic Modal Logic and Application**
 Valeria de Paiva & Sergei Artemov,
-College Publications (2021)
+College Publications (2021), available from [College Publications](https://www.collegepublications.co.uk/ifcolog/?00050).
 
 ``` Bibtex
 @book{ifcolog2021,

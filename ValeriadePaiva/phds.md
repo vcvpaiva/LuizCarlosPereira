@@ -1,7 +1,7 @@
 PhD and Master's theses examined
 
 1. Jean Leneutre, `Distributive Linear Logic', Ecole Nationale Superieure des Telecommunications, Paris, 1998 (sup Patrick Bellot).
-2. Torben Brauner, `An Axiomatic Approach to Adequacy', BRICS, Aarhus, 1996.
+2. Torben Brauner, [An Axiomatic Approach to Adequacy](https://brics.dk/DS/96/4/BRICS-DS-96-4.pdf), BRICS, Aarhus, 1996.
 3. Andrew Barber, `Linear Type Theories, Semantics and Action Calculi', Edinburgh, 1997.
 4. Yakoub Salhi, `Multi-contextual Structures and Intuitionistic Modal Logics', Nancy, 2010.
 5. Cécilia Pradic, `SOME PROOF-THEORETIC APPROACHES TO MONADIC SECOND-ORDER LOGIC', Lyon, 2020.

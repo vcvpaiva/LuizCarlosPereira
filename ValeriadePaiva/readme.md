@@ -11,8 +11,8 @@ a place to collect pdfs from my work
 * from DLBP https://dblp.org/pid/p/ValeriadePaiva.html
 * from Lattes http://lattes.cnpq.br/7858099156442558
 
-## PhD Thesis: 
-From the Computer Laboratory, University of Cambridge:
+## PhD Thesis: DPMMS, University of Cambridge.
+Technical report from the Computer Laboratory, University of Cambridge:
 **[The Dialectica Categories](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-213.pdf)**
 
 Valeria Correa Vaz de Paiva, 

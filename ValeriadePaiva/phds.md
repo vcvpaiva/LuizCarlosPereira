@@ -4,7 +4,7 @@ PhD and Master's theses examined
 2. Torben Brauner, [An Axiomatic Approach to Adequacy](https://brics.dk/DS/96/4/BRICS-DS-96-4.pdf), BRICS, Aarhus, 1996.
 3. Andrew Barber, [Linear Type Theories, Semantics and Action Calculi](https://www.lfcs.inf.ed.ac.uk/reports/97/ECS-LFCS-97-371/ECS-LFCS-97-371.pdf), Edinburgh, 1997.
 4. Yakoub Salhi, [Multi-contextual Structures and Intuitionistic Modal Logics](https://www.researchgate.net/publication/281696866_Structures_Multi-contextuelles_et_Logiques_Modales_Intuitionnistes_et_Hybrides), Nancy, 2010.
-5. Cécilia Pradic, `SOME PROOF-THEORETIC APPROACHES TO MONADIC SECOND-ORDER LOGIC', Lyon, 2020.
+5. Cécilia Pradic, [Some proof-theoretical approaches to Monadic Second-Order logic](https://cpradic.web.deuxfleurs.fr/thesis.pdf), Lyon, 2020.
 6. Felipe Salvatore, `Analysing Natural Language Inference from a Rigorous Point of View', USP, Sao Paulo, 2020.
 7. Davide Catta, `Les preuves vues comme des jeux et réciproquement: sémantique dialogique de langages naturel ou logique', Montpellier, 2021.
 8. Ana Luiza Tenorio, `Sheaves on semicartesian monoidal categories and applications in the quantalic case', USP, 2023.

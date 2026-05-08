@@ -9,7 +9,7 @@ PhD and Master's theses examined
 7. Davide Catta, [Les preuves vues comme des jeux et réciproquement: sémantique dialogique de langages naturel ou logique](https://theses.hal.science/tel-03588308v3), Montpellier, 2021.
 8. Ana Luiza Tenorio, [Sheaves on semicartesian monoidal categories and applications in the quantalic case](https://teses.usp.br/teses/disponiveis/45/45131/tde-31082023-163143/publico/TeseAnaTenorioVersaoCorrigida.pdf), USP, 2023.
 9. Cédric de Lacroix, `Categorical variations on Frobenius quantales', Montpellier, 2024.
-10. Émilie Grienenberger, `Combinaisons de théories calculatoires / Combining computational theories', Paris-Saclay, 2025. 
+10. Émilie Grienenberger, [Combinaisons de théories calculatoires / Combining computational theories](https://theses.hal.science/tel-05142751v1/document), Paris-Saclay, 2025. 
 
 
 Master's thesis:

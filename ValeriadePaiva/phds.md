@@ -13,7 +13,7 @@ PhD and Master's theses examined
 
 
 Master's thesis:
-1. Emanuele Santana, 'Dualidade bitopológica para reticulados distributivos e algebras de Heyting', UFBa, 2010.
-2. Thiago Alexandre, `On Homotopy Types', USP, 2021.
+1. Emanuele Santana, [Dualidade bitopológica para reticulados distributivos e algebras de Heyting(https://repositorio.ufba.br/bitstream/ri/19493/1/Disserta%C3%A7%C3%A3o%20-%20Emanuele%20Romero.pdf), UFBa, 2010.
+2. Thiago Alexandre, [On Homotopy Types(https://teses.usp.br/teses/disponiveis/45/45131/tde-14042022-085011/en.html), USP, 2021.
 3. Roberta Viola, `EM BUSCA DA PALAVRA MAIS ENGENHOSA: COGNIÇÃO E PROCESSAMENTO AUTOMÁTICO DE LÍNGUA NATURAL COM CODENAMES', UFMG, Belo Horizonte, 2021.
 4. Ana Luiza Tenorio, 'Cohomologia de Feixes em Categorias Monoidais Semicartesianas', qualifying exam, USP, Sao Paulo, 2021.

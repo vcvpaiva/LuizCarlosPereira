@@ -9,4 +9,4 @@
 
 
 
- 6. [MAM profile](https://ww2.amstat.org/mam/2015/highlighted/MAM%202015%20profile_dePaiva.pdf) 2015
+ 6. [Math Awareness Month profile](https://ww2.amstat.org/mam/2015/highlighted/MAM%202015%20profile_dePaiva.pdf) 2015

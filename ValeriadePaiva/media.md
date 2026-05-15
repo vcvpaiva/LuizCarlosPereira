@@ -8,5 +8,7 @@
  6. [Math Awareness Month profile](https://ww2.amstat.org/mam/2015/highlighted/MAM%202015%20profile_dePaiva.pdf) 2015
 
 
-    Also
-    [slideshare](https://www.slideshare.net/valeria.depaiva?itemsPerPage=18)
+    Also:
+    
+   * [slideshare](https://www.slideshare.net/valeria.depaiva?itemsPerPage=18)
+   * [Grisha Mints](https://philosophy.stanford.edu/sites/philosophy/files/media/file/valeria_de_paiva_mints_remarks_0.pdf)

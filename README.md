@@ -92,6 +92,28 @@ Proceedings of the Tenth Brazilian Conference on Mathematical Logic. Coleção C
 	year = {1995}}
 ```
 
+* **9th Workhop on Logic, Language, Information and Computation, WoLLIC 2002, Rio de Janeiro, Brazil, July 30 - August 2, 2002** (edited book). (with Ruy J. G. B. de Queiroz, and  Edward Hermann Haeusler). Electronic Notes in Theoretical Computer Science 67, Elsevier 2002 
+
+```
+@proceedings{DBLP:conf/wollic/2002,
+  editor       = {Ruy J. G. B. de Queiroz and
+                  Luiz Carlos Pereira and
+                  Edward Hermann Haeusler},
+  title        = {9th Workhop on Logic, Language, Information and Computation, WoLLIC
+                  2002, Rio de Janeiro, Brazil, July 30 - August 2, 2002},
+  series       = {Electronic Notes in Theoretical Computer Science},
+  volume       = {67},
+  publisher    = {Elsevier},
+  year         = {2002},
+  url          = {https://www.sciencedirect.com/journal/electronic-notes-in-theoretical-computer-science/vol/67/suppl/C},
+  timestamp    = {Mon, 05 Dec 2022 16:07:41 +0100},
+  biburl       = {https://dblp.org/rec/conf/wollic/2002.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
+
+
 ## Some Papers
 
 * [A Formalization of Sambin's Normalization for GL](https://onlinelibrary.wiley.com/doi/10.1002/malq.19930390116), (with Hermann Hauesler, 1993) - NA

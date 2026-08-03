@@ -116,6 +116,12 @@ Proceedings of the Tenth Brazilian Conference on Mathematical Logic. Coleção C
 
 ## Some Papers
 
-* [A Formalization of Sambin's Normalization for GL](https://onlinelibrary.wiley.com/doi/10.1002/malq.19930390116), (with Hermann Hauesler, 1993) - [preprint]()
-* [A Categorical Approach to Higher-level Introduction and Elimination Rules](https://rml.tcs.uj.edu.pl/rml-28/a-pou-28.htm), with Haydee Werneck POUBEL, 1994 - NA
+*[An Infinitary Extension of MALL^{-}](), with Hermann Hauesler, 1999.
+
 * [Gentzen's Second Consistency Proof and Strong Cut-Elimination](https://github.com/vcvpaiva/LuizCarlosPereira/blob/main/HAUESLER-GENTZENSSECONDCONSISTENCY-1996.pdf) (with Hermann Hauesler, 1996)
+
+* [A Categorical Approach to Higher-level Introduction and Elimination Rules](https://rml.tcs.uj.edu.pl/rml-28/a-pou-28.htm), with Haydee Werneck POUBEL, 1994 - NA
+
+* [A Formalization of Sambin's Normalization for GL](https://onlinelibrary.wiley.com/doi/10.1002/malq.19930390116), (with Hermann Hauesler, 1993) - [preprint]()
+
+
